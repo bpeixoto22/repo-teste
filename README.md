@@ -11,4 +11,6 @@ Depois temos que lhe dizer que queremos dar COMIT
 Para isso clicamos ali no botaizinho DIFF
 
 cOMIT: nao fica online, fica gravada a versao no meu pc
-efsfes
+
+fesfses
+
