@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+#isto é o diretorio da pasta a esconder, que no meu caso se chama "secreta"
+secreta/
